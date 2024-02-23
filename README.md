@@ -38,24 +38,8 @@ $ npm install
 # development
 $ npm run start
 
-# watch mode
-$ npm run start:dev
-
-# production mode
-$ npm run start:prod
-```
-
-## Test
-
-```bash
-# unit tests
-$ npm run test
-
-# e2e tests
-$ npm run test:e2e
-
-# test coverage
-$ npm run test:cov
+# Once the project is up and running, it will ask for number of players
+# Then you will need to provide the ID for each player. Example: 123
 ```
 
 ## Support
